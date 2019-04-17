@@ -1,2 +1,2 @@
-# demo-for-mhcid
-Demo for MHCID
+# cephalopod-squad
+Cephalopod Squad
