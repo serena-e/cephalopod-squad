@@ -53,6 +53,15 @@ h4 {
   padding: 30px;
 }
 
+.col a {
+  opacity: 0.8;
+}
+
+.col a:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
 .home {
   margin-top: 50px;
 }
