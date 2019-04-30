@@ -13,12 +13,13 @@ h1 {
     font-size: 5em;
     text-transform: uppercase;
     color: #333;
-    padding: 30px;
+    margin-top: 30px;
 }
 
 h2 {
     font-family: 'Averia Serif Libre', cursive;
     font-weight: 300;
+    font-style: italic;
 }
 
 h3 {
@@ -40,4 +41,15 @@ h4 {
 
 .row {
     margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.8em;
+    border-top: 1px solid #ccc;
+    padding: 30px;
 }
