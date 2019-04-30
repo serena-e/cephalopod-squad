@@ -36,14 +36,14 @@ h4:hover {
 }
 */
 
-.image-card {
+a.image-card {
   opacity: 0.7;
   transition: opacity 0.5s;
   text-decoration: none;
   color: #000;
 }
 
-.image-card:hover {
+a.image-card:hover {
   opacity: 1;
   transition: opacity 0.5s;
   text-decoration: none;
