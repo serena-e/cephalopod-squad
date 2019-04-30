@@ -8,3 +8,9 @@ h1 {
   font-family: 'Cormorant Unicase', serif;
   font-size: 5em;
 }
+
+.img-fluid {
+    max-height: 500px;
+    margin: 0 auto;
+    display: block;
+}
