@@ -49,26 +49,26 @@ h4 {
     display: block;
 }
 
-.col-sm {
+.col-sm a{
   opacity: 0.5;
   padding: 30px;
   color: #000;
   text-decoration: none;
 }
 
-.col-sm:hover {
+.col-sm a:hover {
   opacity: 1;
   transition: 0.5s;
   text-decoration: none;
 }
 
-.col {
+.col a {
   opacity: 0.5;
   color: #000;
   text-decoration: none;
 }
 
-.col:hover {
+.col a:hover {
   opacity: 1;
   transition: 0.5s;
   text-decoration: none;
