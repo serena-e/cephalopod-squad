@@ -49,11 +49,11 @@ h4 {
     display: block;
 }
 
-.img a {
+.img-fluid a {
   opacity: 0.5;
 }
 
-.img a:hover {
+.img-fluid a:hover {
   opacity: 1;
   transition: 0.5s;
 }
