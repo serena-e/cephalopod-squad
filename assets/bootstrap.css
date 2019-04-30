@@ -7,6 +7,10 @@ h1, h2, h3, h4 {
   text-align: center;
 }
 
+h2 {
+      margin-bottom: 50px;
+}
+
 a {
   text-decoration: none !important;
   color: #000;
@@ -15,36 +19,6 @@ a {
 h3, h4 {
   text-decoration: none;
 }
-
-
-/*
-a {
-  text-decoration: none;
-  transition: opacity 0.5s ease-in-out;
-}
-
-a:hover {
-  opacity: 1;
-  transition: opacity 0.5s ease-in-out;
-  text-decoration: none;
-}
-
-h3, h4 {
-  color: #000;
-  opacity: 0.7;
-  transition: opacity 0.5s ease-in-out;
-}
-
-h3:hover {
-  opacity: 1;
-  transition: opacity 0.5s ease-in-out;
-}
-
-h4:hover {
-  opacity: 1;
-  transition: opacity 0.5s ease-in-out;
-}
-*/
 
 .image-card {
   opacity: 0.7;
@@ -101,18 +75,6 @@ h4 {
     margin: 0 auto;
     display: block;
 }
-
-/*
-.img-fluid {
-    opacity: 0.7;
-    transition: 0.5s;
-}
-
-.img-fluid:hover {
-  opacity: 1;
-  transition: opacity 0.5s;
-}
-*/
   
 .col-sm {
   padding: 30px;
