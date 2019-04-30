@@ -59,6 +59,11 @@ h4 {
 
 .btn-primary {
     color: #fff;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    text-transform: lowercase;
+    padding-right: 20px;
 }
 
 footer {
