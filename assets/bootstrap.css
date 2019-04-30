@@ -50,19 +50,17 @@ h4 {
 }
 
 .col-sm {
+  opacity: 0.5;
   padding: 30px;
 }
 
-.col a {
+.col {
   opacity: 0.8;
-}
-
-.col a {
   color: #000;
   text-decoration: none;
 }
 
-.col a:hover {
+.col:hover {
   opacity: 1;
   transition: 0.5s;
 }
