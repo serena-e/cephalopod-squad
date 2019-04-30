@@ -49,7 +49,15 @@ h4 {
     display: block;
 }
 
+.img a {
+  opacity: 0.5;
+}
 
+.img a:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+  
 .col-sm {
   padding: 30px;
 }
