@@ -5,16 +5,34 @@ body {
 
 h1 {
   text-align: center;
-  font-family: 'Cormorant Unicase', serif;
-  font-size: 5em;
+    font-family: 'Jacques Francois Shadow', cursive;
+    font-size: 5em;
+    text-transform: uppercase;
+    color: #333;
+    padding: 30px;
 }
 
 h1, h2, h3, h4 {
   text-align: center;
 }
 
+h3 {
+    font-family: 'Averia Serif Libre', cursive;
+    font-weight: 300;
+    font-size: 2em;
+}
+
+h4 {
+    font-family: 'Averia Serif Libre', cursive;
+    text-transform: uppercase;
+}
+
 .img-fluid {
     max-height: 500px;
     margin: 0 auto;
     display: block;
+}
+
+.row {
+    margin-top: 50px;
 }
