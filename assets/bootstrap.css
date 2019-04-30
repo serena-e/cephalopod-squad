@@ -39,15 +39,20 @@ h4 {
     text-transform: uppercase;
 }
 
+.row {
+
+}
+
 .img-fluid {
     max-height: 500px;
     margin: 0 auto;
     display: block;
 }
 
-.row {
-    margin-top: 50px;
+col-sm {
+  padding: 30px;
 }
+
 
 footer {
     margin-top: 50px;
