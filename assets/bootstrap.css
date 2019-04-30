@@ -59,6 +59,7 @@ h4 {
 .col-sm:hover {
   opacity: 1;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 .col {
@@ -70,6 +71,7 @@ h4 {
 .col:hover {
   opacity: 1;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 .home {
