@@ -49,10 +49,21 @@ h4 {
     display: block;
 }
 
-col-sm {
+.col-sm {
   padding: 30px;
 }
 
+.home {
+  margin-top: 50px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6c757d;
+    margin: 0 auto;
+    display: block;
+    border: none;
+}
 
 footer {
     margin-top: 50px;
