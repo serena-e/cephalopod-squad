@@ -14,6 +14,7 @@ a {
 a:hover {
   opacity: 1;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 h3, h4 {
@@ -62,11 +63,6 @@ h4 {
     margin: 0 auto;
     display: block;
     opacity: 0.8;
-}
-
-.img-fluid:hover {
-  opacity: 1;
-  transition: 0.5s;
 }
   
 .col-sm {
