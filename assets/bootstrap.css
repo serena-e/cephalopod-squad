@@ -22,6 +22,16 @@ h3, h4 {
   opacity: 0.8;
 }
 
+h3:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
+h4:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
 h1 {
   text-align: center;
     font-family: 'Jacques Francois Shadow', cursive;
@@ -63,6 +73,11 @@ h4 {
     margin: 0 auto;
     display: block;
     opacity: 0.8;
+}
+
+.img-fluid:hover {
+  opacity: 1;
+  transition: 0.5s;
 }
   
 .col-sm {
