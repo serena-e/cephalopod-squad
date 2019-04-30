@@ -90,6 +90,10 @@ h4 {
     max-height: 500px;
     margin: 0 auto;
     display: block;
+}
+
+/*
+.img-fluid {
     opacity: 0.7;
     transition: 0.5s;
 }
@@ -98,6 +102,7 @@ h4 {
   opacity: 1;
   transition: opacity 0.5s;
 }
+*/
   
 .col-sm {
   padding: 30px;
