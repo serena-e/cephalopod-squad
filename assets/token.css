@@ -1,6 +1,24 @@
 body {
 }
+p {
+font-family: arial;
+font-size: 0.8em;
+color:#333;
+}
 
+a {
+  color: #29cece;
+}
+
+.tokens {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.tokens-flip {
+  width: 50%;
+  margin: 0 auto;
+}
 
 .token-white {
   width: 64px;
@@ -81,4 +99,12 @@ body {
 .flip-card-back {
   color: black;
   transform: rotateY(180deg);
+}
+
+footer {
+  padding-top: 50px;
+  font-family: arial;
+  font-size: 0.8em;
+  color:#ccc;
+  text-align: center;
 }
